@@ -1,5 +1,66 @@
-**MODO DE INSTALACIÓN**
+<a name="br1"></a> 
 
+**INSTALACIÓN DEL SITIO.**
+
+1\. Descargar el .zip de este repositorio como se muestra a continuación:
+
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/eda0c305-fd28-47f5-833e-9be6db636a47)
+
+2\. Al descargarlo, de la carpeta “Descargas” vamos a descomprimir nuestro archivo,
+
+una vez obteniendo nuestra carpeta descomprimida, copiaremos y pegaremos en el
+
+directorio C:\xampp\htdocs agregaremos nuestra carpeta.
+
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/3d1a2a4d-9dc0-45cd-8712-b7c6eb818bdc)
+
+
+<a name="br2"></a> 
+
+3\. Dentro de esta carpeta, al abrirla hallaremos una base de datos, que es el siguiente:
+
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/b2aff5b0-03cc-4f63-aa18-12a742d4d3fb)
+
+4\. Abriremos, en este caso XAMPP, en donde ocuparemos Apache y MySQL:
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/c660c897-4f04-4ed8-8905-ab3f1f436d9f)
+
+
+5\. Para agregar la base de datos, deberemos ingresar a Admin en MySQL
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/bc55b0ba-d362-44d6-b149-fa9c509ae528)
+
+6\. Nos abrirá la siguiente ventana en nuestro navegador determinado:
+
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/45b53cd8-947f-4c82-9186-377e5f91c658)
+
+<a name="br3"></a> 
+
+7\. Creamos en “Nueva” una base de datos llamada “leslie”, en esta, agregaremos el
+
+archivo de la base de datos mostrado anteriormente, nos vamos a la pestaña
+
+“importar” y en donde dice “elegir archivo” buscaremos el mismo archivo
+
+“ScriptTienda”
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/6d6f960e-5205-42b7-bfac-e391922ad78f)
+
+
+8\. Lo agregamos y se habrá extraído la base de datos con sus correspondientes tablas
+
+y relaciones
+
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/7784ae66-4452-47d6-a682-0cbb3f2aef62)
+
+<a name="br4"></a> 
+
+9\. Ahora si, ya se podrá correr el programa, en cualquier navegador con el localhost
+
+“127.0.0.1/PHP\_MVC/”
+![image](https://github.com/pandi2570/PHP_MVC/assets/168136025/e4c88330-e524-43b0-beff-d428227e4b70)
+
+
+**IMPORTANTE: Usuario: [leslie.martinezinfante@hotmail.com**]**
+
+**Contraseña: 123**
 
 <hr>
 
